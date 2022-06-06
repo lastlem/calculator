@@ -1,0 +1,22 @@
+[
+      {"widget": "entry", "text": 0, "row": 0, "column": 0, "column span": 10, "font": "", "font size": 10, "font type": ""},
+      {"widget": "entry", "text": 0, "row": 1, "column": 0, "column span": 10, "row span": 2, "font": "Helvetica", "font size": 30, "font type": "bold"},
+      {"widget": "button", "text": "C", "row": 3, "column": 0, "column span": 2, "command": "clear_text"},
+      {"widget": "button", "text": "<-", "row": 3, "column": 2, "command": "delete_last_char"},
+      {"widget": "button", "text": "+", "row": 3, "column": 3, "command": "click_sign"},
+      {"widget": "button", "text": "-", "row": 3, "column": 4, "command": "click_sign"},
+      {"widget": "button", "text": "/", "row": 3, "column": 5, "command": "click_sign"},
+      {"widget": "button", "text": "*", "row": 3, "column": 6, "command": "click_sign"},
+      {"widget": "button", "text": ".", "row": 3, "column": 7, "command": "click_dot"},
+      {"widget": "button", "text": "=", "row": 3, "column": 8, "column span": 2, "command": "click_sign"},
+      {"widget": "button", "text": "9", "row": 4, "column": 0, "command": "click_number"},
+      {"widget": "button", "text": "8", "row": 4, "column": 1, "command": "click_number"},
+      {"widget": "button", "text": "7", "row": 4, "column": 2, "command": "click_number"},
+      {"widget": "button", "text": "6", "row": 4, "column": 3, "command": "click_number"},
+      {"widget": "button", "text": "5", "row": 4, "column": 4, "command": "click_number"},
+      {"widget": "button", "text": "4", "row": 4, "column": 5, "command": "click_number"},
+      {"widget": "button", "text": "3", "row": 4, "column": 6, "command": "click_number"},
+      {"widget": "button", "text": "2", "row": 4, "column": 7, "command": "click_number"},
+      {"widget": "button", "text": "1", "row": 4, "column": 8, "command": "click_number"},
+      {"widget": "button", "text": "0", "row": 4, "column": 9, "command": "click_number"}
+]
